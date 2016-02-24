@@ -1,0 +1,28 @@
+name: Dubai Audio
+favicon: null
+layout_spectrum: 0.9386141595896333
+typography_spectrum: 0.512750304536894
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.579631622415036
+  lightness: 0.5458329219836742
+  saturation: 0.9696410857141018
+  rhythmicContrast: 0.29271253617480397
+purpose: []
