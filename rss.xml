@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dubai Audio]]></title>
+        <description><![CDATA[Dubai Audio]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 24 Feb 2016 12:49:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31cf54aa-5bf3-456e-befe-d24ac461d55b.jpg">]]></description>
+            <link>undefinede1b61821-35c4-4ea4-832d-68c91b6bae38/index.html</link>
+            <guid isPermaLink="false">e1b61821-35c4-4ea4-832d-68c91b6bae38</guid>
+            <pubDate>Wed, 24 Feb 2016 12:49:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
