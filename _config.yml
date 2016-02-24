@@ -2,6 +2,7 @@ name: Dubai Audio
 favicon: null
 layout_spectrum: 0.24036
 typography_spectrum: 0.86074
+title: Dubai Audio
 cta:
   domain: null
   bucket: null
